@@ -12,7 +12,7 @@ Use google colab and create two seperate files for preprocessing the data and fo
 ## Credits
 [Krish Naik](https://www.youtube.com/user/krishnaik06)
 
-Tensoflow
+Tensorflow
 
 Librosa
 
