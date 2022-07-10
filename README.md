@@ -1,2 +1,4 @@
 # Speech-Commands-Classification
-Classifying Speech Commands 
+
+## Description
+In this project, i used 
